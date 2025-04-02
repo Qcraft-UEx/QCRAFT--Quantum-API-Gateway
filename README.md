@@ -1,4 +1,11 @@
-# QCRAFT--Quantum-API-Gateway
+<p align="center">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Qcraft-UEx/Qcraft/blob/main/docs/_images/qcraft_logo.png?raw=true" width="60%">
+     <img src="https://github.com/Qcraft-UEx/Qcraft/blob/main/docs/_images/qcraft_logo.png?raw=true" width="60%" alt="Qcraft Logo">
+   </picture>
+</p>
+
+# QCRAFT Quantum API Gateway
 QCRAFT Quantum API Gateway: API Gateway for the development of hybrid-quantum services running on the quantum machines available in the Amazon Braket environment.
 
 
